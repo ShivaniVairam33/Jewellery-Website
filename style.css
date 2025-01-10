@@ -1,0 +1,28 @@
+.carousel-inner{
+    width: auto;
+    height: auto;
+    autoplay:false
+    autoplayTimeout:5000
+    autoplayHoverPause:false
+}
+.footer{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:100;
+    position: sticky;
+}
+
+.item, img{
+    height: 100% !important;
+    width:  100% !important;
+}
+a:hover{
+    background-color: rgba(8, 228, 56, 0.411) ;
+    border-radius: 7px;
+
+}
+.h2{
+    text-align: center;
+    background-color:rgba(200, 247, 247, 0.943);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+}
